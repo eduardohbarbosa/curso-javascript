@@ -1,2 +1,4 @@
-# curso-javascript
- Códigos feitos no curso de JavaScript do Curso em Vídeo
+<h1 align='center'>Curso JavaScript</h1>
+
+<p align='center'> Exercicios do curso de JS do Curso em Vídeo</p>
+
